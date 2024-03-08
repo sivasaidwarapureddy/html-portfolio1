@@ -1,0 +1,13 @@
+
+img{
+    border-radius: 2% solid black;
+}
+body{
+    background-color:#6aa6ef3e;
+}
+.carousel-inner > img{
+  height: 100px;
+
+}
+
+ 
